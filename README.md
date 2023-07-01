@@ -7,3 +7,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/gabrillasabadini/
 - 😄 Pronouns: she/her
 - Enjoy the life with data
+- Python , SQL ,Nlp , ML
