@@ -6,5 +6,6 @@
 - 🤔 I’m looking for help with new ideas and techniques about the data world.
 - 📫 How to reach me: https://www.linkedin.com/in/gabrillasabadini/
 - 😄 Pronouns: she/her
-- Enjoy the life with data
+- Enjoying the life with data.
 - Python , SQL ,Nlp , ML
+  
